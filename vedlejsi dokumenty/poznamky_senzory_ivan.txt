@@ -39,3 +39,5 @@ Vystup - prototypy ready k otestovani v siti, hotova data pro vyrobu.
 	Ale jak rikam, zalezi na tom jak moc budeme chtit se snazit dojit presne
 	data z tech levnych senzoru.
 
+Jeden z moznych sensoru, asi k nicemu
+
