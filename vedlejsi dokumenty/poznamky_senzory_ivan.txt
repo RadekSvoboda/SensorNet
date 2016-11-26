@@ -38,4 +38,10 @@ Vystup - prototypy ready k otestovani v siti, hotova data pro vyrobu.
 	nejaka vysoka skola..? Odhadem sto tisic mesic spoluprace pri kalibraci.
 	Ale jak rikam, zalezi na tom jak moc budeme chtit se snazit dojit presne
 	data z tech levnych senzoru.
+	
+	
+
+nizkoenergeticky radiovy modul pro komunikaci.
+http://microrisc.com/en
+zkusenosti smisene, cesi, obcas vyuzivaji zakazniky tim ze jsou nejlepsi.
 
